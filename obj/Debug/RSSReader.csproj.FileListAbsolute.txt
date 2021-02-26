@@ -1,0 +1,17 @@
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\RSSReader.csprojAssemblyReference.cache
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\MainWindow.g.cs
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\App.g.cs
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\RSSReader_MarkupCompile.cache
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\RSSReader_MarkupCompile.lref
+C:\Users\佐久間 潤\source\repos\RSSReader\bin\Debug\RSSReader.exe.config
+C:\Users\佐久間 潤\source\repos\RSSReader\bin\Debug\RSSReader.exe
+C:\Users\佐久間 潤\source\repos\RSSReader\bin\Debug\RSSReader.pdb
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\CustomWindow.g.cs
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\MainWindow.baml
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\CustomWindow.baml
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\RSSReader.g.resources
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\RSSReader.Properties.Resources.resources
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\RSSReader.csproj.GenerateResource.cache
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\RSSReader.csproj.CoreCompileInputs.cache
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\RSSReader.exe
+C:\Users\佐久間 潤\source\repos\RSSReader\obj\Debug\RSSReader.pdb

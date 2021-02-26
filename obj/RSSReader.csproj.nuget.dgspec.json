@@ -1,0 +1,37 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\佐久間 潤\\source\\repos\\RSSReader\\RSSReader.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\佐久間 潤\\source\\repos\\RSSReader\\RSSReader.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\佐久間 潤\\source\\repos\\RSSReader\\RSSReader.csproj",
+        "projectName": "RSSReader",
+        "projectPath": "C:\\Users\\佐久間 潤\\source\\repos\\RSSReader\\RSSReader.csproj",
+        "projectJsonPath": "C:\\Users\\佐久間 潤\\source\\repos\\RSSReader\\project.json",
+        "packagesPath": "C:\\Users\\佐久間 潤\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\佐久間 潤\\source\\repos\\RSSReader\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\佐久間 潤\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "frameworks": {
+        "aspnet50": {
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": "[6.0.0-beta2, )"
+          },
+          "frameworkAssemblies": {
+            "System.ServiceModel": "[4.0.0, )"
+          }
+        }
+      }
+    }
+  }
+}
